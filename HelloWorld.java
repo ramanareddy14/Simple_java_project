@@ -7,8 +7,6 @@ class HelloWorld
     public static void main(String args[]) 
     { 
 		System.out.println("Hello, World"); 
-        System.out.println("adding second line");
-		System.out.println("adding third line");
-		System.out.println("adding fourth line");
+        System.out.println("working in master branch parallel to first_branch");
     } 
 } 
